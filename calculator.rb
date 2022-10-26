@@ -1,5 +1,3 @@
-
-
 # gets adds a new line character 
 # gets.chomp() - removes the new line character
 
